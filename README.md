@@ -29,12 +29,6 @@ I specialize in building high-performance, visually stunning web applications. W
 *   UI/UX Implementation & Animation
 *   React & Next.js Development
 
-
-**Contact Me:**
-*   [Your Portfolio URL]
-*   [Your Email]
-*   [Your LinkedIn]
-
 ---
 
 ## 📦 Installation

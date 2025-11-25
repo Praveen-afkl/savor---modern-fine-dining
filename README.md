@@ -18,7 +18,7 @@
 
 ## 🚀 Live Demo
 
-[Insert Vercel Deployment Link Here]
+[[Insert Vercel Deployment Link Here]](https://bentroza-landing-preview1.vercel.app)
 
 ## 👨‍💻 Looking for a Developer?
 
@@ -30,22 +30,6 @@ I specialize in building high-performance, visually stunning web applications. W
 *   React & Next.js Development
 
 ---
-
-## 📦 Installation
-
-1.  Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/savor-dining.git
-    ```
-2.  Install dependencies:
-    ```bash
-    npm install
-    ```
-3.  Run the development server:
-    ```bash
-    npm run dev
-    ```
-
 ## 📄 License
 
 MIT License

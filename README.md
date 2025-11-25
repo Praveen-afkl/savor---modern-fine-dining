@@ -18,7 +18,7 @@
 
 ## 🚀 Live Demo
 
-[[Insert Vercel Deployment Link Here]](https://bentroza-landing-preview1.vercel.app)
+[[Check It Out]](https://bentroza-landing-preview1.vercel.app)
 
 ## 👨‍💻 Looking for a Developer?
 
